@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Navbar from './components/navbar'
-import Hero from './components/hero'
+import Hero from './components/Hero'
 import About from './components/About'
 import Skills from './components/Skills'
 import Projects from './components/Projects'
